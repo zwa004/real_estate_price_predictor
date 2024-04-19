@@ -2,12 +2,13 @@
 
 ## Introduction
 
-Residential house prices are complex to predict and understand. While interest rates, buyer/seller financial status, and other factors can help to predict house prices, they are not the only variables affecting home sales. This project aims to:
+Residential house prices are complex to predict. While interest rates and buyer/seller financial status may affect house sale prices, there are other variables that may be dependent on one another that can affect house sale prices. This project aims to simplify the process of predicting house prices with machine learning. Specifically, this project will:
 
 * Explore data available for house sales
-* Extract features from data
+* Isolate various features that may affect house sale prices
 * Train various machine learning models
 * Test the models
+* Identify feature relationships
 * Visualize the results in a dashboard
 * Identify areas for future research and more complex analysis
 
