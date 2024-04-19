@@ -1,0 +1,20 @@
+.venv
+
+.data
+data
+*.csv
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+*.odf
+*.ods
+
+requirements.txt
+
+# Python scripts
+main.py
+model_development.py
+feature_engineering.py
+data_processing.py
+get_area_code.py
