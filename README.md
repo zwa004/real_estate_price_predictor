@@ -1,5 +1,16 @@
 # Real Estate Price Predictor
 
+## Introduction
+
+Residential house prices are complex to predict and understand. While interest rates, buyer/seller financial status, and other factors can help to predict house prices, they are not the only variables affecting home sales. This project aims to:
+
+* Explore data available for house sales
+* Extract features from data
+* Train various machine learning models
+* Test the models
+* Visualize the results in a dashboard
+* Identify areas for future research and more complex analysis
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -14,17 +25,6 @@
 - [Model Deployment](#model-deployment)
 - [Conclusion](#conclusion)
 - [References](#references)
-
-## Introduction
-
-Residential house prices are complex to predict and understand. While interest rates, buyer/seller financial status, and other factors can help to predict house prices, they are not the only variables affecting home sales. This project aims to:
-
-* Explore data available for house sales
-* Extract features from data
-* Train various machine learning models
-* Test the models
-* Visualize the results in a dashboard
-* Identify areas for future research and more complex analysis
 
 ## Data
 
